@@ -23,8 +23,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-using-tailwind-xD-Bf5TneX)
-- Live Site URL: [Add live site URL here](https://mohamedmostafakhudari.github.io/four-card-feature-section/public/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-using-tailwind-xD-Bf5TneX)
+- Live Site URL: [Live](https://mohamedmostafakhudari.github.io/four-card-feature-section/public/)
 
 ## My process
 
